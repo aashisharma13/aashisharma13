@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Aashi Sharma 👋
 
-<!--
-**aashisharma13/aashisharma13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science Engineering student at Bennett University.
 
-Here are some ideas to get you started:
+### Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* Java
+* HTML
+* Programming Fundamentals
+
+### Interests
+
+* Technology
+* Problem Solving
+* Web Development
+* Reading & Writing
+
+### Goals
+
+Building strong programming fundamentals and working on practical projects as I grow in Computer Science.
+
+
+
